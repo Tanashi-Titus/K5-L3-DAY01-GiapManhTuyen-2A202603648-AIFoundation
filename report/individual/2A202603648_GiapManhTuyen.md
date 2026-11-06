@@ -100,5 +100,5 @@ Cách kết hợp này giúp tận dụng tốc độ của BoW, chất lượng
 
 ### Điều đã học
 Qua bài Lab, em hiểu rõ hơn sự khác nhau giữa ML, DL, Embedding và LLM, đặc biệt là cách tạo đặc trưng và khả năng học của từng phương pháp
-Em nhận ra F1 cao trên tập test chưa chắc phản ánh đúng chất lượng khi gặp dữ liệu khó. Khi xây dựng sản phẩm AI, cần cân bằng giữa độ chính xác, tốc độ, chi phí và khả năng tổng quát hóa
+Thêm vào đó, em nhận ra F1 cao trên tập test chưa chắc phản ánh đúng chất lượng khi gặp dữ liệu khó. Khi xây dựng sản phẩm AI, cần cân bằng giữa độ chính xác, tốc độ, chi phí và khả năng tổng quát hóa
 Ngoài ra, các dự đoán ban đầu có thể khác kết quả thực tế, nên việc chạy thí nghiệm và phân tích lỗi rất quan trọng
